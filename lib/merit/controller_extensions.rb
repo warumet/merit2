@@ -8,7 +8,7 @@ module Merit
         #base.after_action :log_and_process
       #else
         #base.after_filter :log_and_process
-      end
+      #end
     end
 
     private
